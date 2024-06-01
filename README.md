@@ -1,1 +1,1 @@
-# mvc-project
+# This project utilizes NumPy, pandas, and SciPy to optimize the packaging of items within a given weight capacity. It minimizes the total weight while considering cost per unit weight, using calculus and Python programming principles. The optimization process ensures the weight does not exceed the capacity, and the results are visualized with Matplotlib for better understanding.
